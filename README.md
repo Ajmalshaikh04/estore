@@ -9,12 +9,12 @@
 ## User LogIn
 
 email: qwerty@ymail.com
-pass: qwerty098
+pass: qwerty123
 
 ## Admin Dashboard LogIn route = "/admin/dashboard"
 
-email:aj@gmail.com
-pass: zxcvb098
+email:user@gmail.com
+pass: user12345
 
 ## Env Variables
 
